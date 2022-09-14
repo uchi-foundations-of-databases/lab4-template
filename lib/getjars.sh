@@ -1,0 +1,11 @@
+wget http://people.cs.uchicago.edu/~aelmore/simplejars/ant-contrib-1.0b3.jar
+wget http://people.cs.uchicago.edu/~aelmore/simplejars/javassist-3.16.1-GA.jar
+wget http://people.cs.uchicago.edu/~aelmore/simplejars/jline-0.9.94.jar
+wget http://people.cs.uchicago.edu/~aelmore/simplejars/junit-4.5.jar
+wget http://people.cs.uchicago.edu/~aelmore/simplejars/jzlib-1.0.7.jar
+wget http://people.cs.uchicago.edu/~aelmore/simplejars/log4j-1.2.17.jar
+wget http://people.cs.uchicago.edu/~aelmore/simplejars/mina-core-2.0.4.jar
+wget http://people.cs.uchicago.edu/~aelmore/simplejars/mina-filter-compression-2.0.4.jar
+wget http://people.cs.uchicago.edu/~aelmore/simplejars/slf4j-api-1.6.1.jar
+wget http://people.cs.uchicago.edu/~aelmore/simplejars/slf4j-log4j12-1.6.1.jar
+wget http://people.cs.uchicago.edu/~aelmore/simplejars/zql.jar

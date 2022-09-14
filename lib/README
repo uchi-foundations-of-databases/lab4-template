@@ -1,0 +1,47 @@
+You need to download the jars (*.jars) from http://people.cs.uchicago.edu/~aelmore/simplejars/ to this directory. 
+On a system with bash and wget (eg linux) you can run the following command to download the jars:
+
+```
+sh getjars.sh
+```
+
+The jars come from the following places.  DO NOT add the jars to your git repo. This will result in points marked off for each submission with the jars in your lib directory.
+
+junit-4.5.jar
+* http://junit.sourceforge.net/
+* CPL (free for all use)
+
+zql.jar
+* http://www.gibello.com/code/zql/
+* Free for non-commercial use
+
+JLine
+* http://jline.sourceforge.net/
+* BSD (free for all use)
+
+mina-core-2.0.4.jar
+mina-filter-compression-2.0.4.jar
+* http://mina.apache.org/
+* Apache License v2.0 (free for all use)
+
+slf4j-api-1.6.1.jar
+slf4j-log4j12-1.6.1.jar
+* http://www.slf4j.org/license.html
+* MIT license (free for all use)
+
+jzlib-1.0.7.jar
+* http://www.jcraft.com/jzlib/
+* BSD (free for all use)
+
+javassist-3.16.1-GA.jar
+* http://www.javassist.org/
+* MPL v1.1, LGPL and Apache License
+
+ant-contrib-1.0b3.jar
+* http://ant-contrib.sourceforge.net/
+* Apache Software License
+
+log4j-1.2.17.jar
+* logging.apache.org/log4j/1.2/
+* Apache Software license 2.0
+
